@@ -21,5 +21,6 @@ Tabel Hasil Evaluasi Model
 
   Dari lima algoritma yang dievaluasi, empat di antaranya mencapai akurasi lebih dari 90%. Algoritma tersebut adalah Decision Tree, Random Forest, Gradient Boosting, dan XGBoosting. Di antara algoritma-algoritma ini, Random Forest dipilih karena tingkat akurasinya yang superior sebesar 97.04%, menjadikannya model yang paling akurat. Selain itu, Random Forest menunjukkan presisi tinggi sebesar 99.55% dan recall sebesar 94.51%. F1-Score yang dihasilkan adalah 96.96%, menunjukkan kinerja yang seimbang antara presisi dan recall. Lebih jauh lagi, model ini mencapai Skor AUC sebesar 99.54%, yang menyoroti kemampuannya yang luar biasa untuk membedakan antara kelas positif dan negatif, serta mencerminkan kinerja keseluruhan model yang kuat.
 
-Link Dataset: https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1/code \n
+Link Dataset: https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1/code
+
 PPT Project: https://www.linkedin.com/posts/saeful-amri-0a7991229_loan-payment-prediction-activity-7210149065077010432-Ugu0?utm_source=share&utm_medium=member_desktop
